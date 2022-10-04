@@ -2,19 +2,19 @@
 
 # Project Name
 
-> Set up a "***********" project.
+> Set up a "Survey Form" project.
 
 
 ## Built With
 
-- HTML, CSS, *************
+- HTML, CSS.
 - VSC, github
 
 
 ### Setup
 
 - To clone this Repo run the this command on your terminal:
-git clone *********************************
+git clone https://github.com/aliakhraisha/Survey-Form
 
 ## Authors
 
@@ -37,7 +37,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Microverse readme file templet used.
-- Microverse project description.
+- [FreeCodeCamp project description] (https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form).
 
 ## 📝 License
 
