@@ -37,7 +37,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Microverse readme file templet used.
-- [FreeCodeCamp project description] (https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form).
+- [FreeCodeCamp project description](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form).
 
 ## 📝 License
 
